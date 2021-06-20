@@ -404,7 +404,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ERC20.sol": "ERC20"
+			"LEarnX_flat.sol": "ERC20"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -418,25 +418,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Context.sol": {
-			"keccak256": "0xfa962254a0dd6d7274b1a62ebc27fa639b60f2e76cad744c9286c5d5d428855c",
+		"LEarnX_flat.sol": {
+			"keccak256": "0x7701e654ed1532df72910a53a3d6a492db028bda9fec3ed702825638c1f9a368",
 			"urls": [
-				"bzz-raw://afec7815de77cca053593c2c629968b345237d4bb1f7e7ad993fab860a8cbfbc",
-				"dweb:/ipfs/QmQdUFS6qo9RGyyCtsa3D3XTg3zFHogTf8PQZxhpWTTuRM"
-			]
-		},
-		"contracts/ERC20.sol": {
-			"keccak256": "0x8e282444b0e5801b293e0403fc80260737ccd9f102519c8b0463ce73dd659ea1",
-			"urls": [
-				"bzz-raw://7a92c15c0e1b4d9f33a9b93d69aa38bf014d5ce129f74602ef058b28900bb0a9",
-				"dweb:/ipfs/QmUSyVZfKn5dp6YFF4d7ZFqoEHZ6TpJdv8MPnaf9kdgHWS"
-			]
-		},
-		"contracts/IERC20.sol": {
-			"keccak256": "0x8dcbe8144bbadc7f0fb6fe170a5b6e99202cf90e8f0931fe8f406bee5c6d19a8",
-			"urls": [
-				"bzz-raw://70d0a11b03fde87475d0a8579cd87d22e32d45399714db50a61a6a4de4a7fba9",
-				"dweb:/ipfs/QmQLUpuRHNW1MGJRQ2v23YvEsbBR9h4z9cd1SN8AwzdkdV"
+				"bzz-raw://2b3c462935d2d86b4ce58e60bde3e3b2ee673ab6e7108b9db757f56b7226d9ce",
+				"dweb:/ipfs/QmenYsWNgrtu3DRUdciNP71PcDVYn4g2DTNXY9qtiWz9t9"
 			]
 		}
 	},

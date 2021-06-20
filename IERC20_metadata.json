@@ -275,7 +275,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/IERC20.sol": "IERC20"
+			"LEarnX_flat.sol": "IERC20"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -289,11 +289,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/IERC20.sol": {
-			"keccak256": "0x8dcbe8144bbadc7f0fb6fe170a5b6e99202cf90e8f0931fe8f406bee5c6d19a8",
+		"LEarnX_flat.sol": {
+			"keccak256": "0x7701e654ed1532df72910a53a3d6a492db028bda9fec3ed702825638c1f9a368",
 			"urls": [
-				"bzz-raw://70d0a11b03fde87475d0a8579cd87d22e32d45399714db50a61a6a4de4a7fba9",
-				"dweb:/ipfs/QmQLUpuRHNW1MGJRQ2v23YvEsbBR9h4z9cd1SN8AwzdkdV"
+				"bzz-raw://2b3c462935d2d86b4ce58e60bde3e3b2ee673ab6e7108b9db757f56b7226d9ce",
+				"dweb:/ipfs/QmenYsWNgrtu3DRUdciNP71PcDVYn4g2DTNXY9qtiWz9t9"
 			]
 		}
 	},

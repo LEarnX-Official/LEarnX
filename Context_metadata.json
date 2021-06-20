@@ -84,7 +84,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/Context.sol": "Context"
+			"LEarnX_flat.sol": "Context"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -98,11 +98,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/Context.sol": {
-			"keccak256": "0xfa962254a0dd6d7274b1a62ebc27fa639b60f2e76cad744c9286c5d5d428855c",
+		"LEarnX_flat.sol": {
+			"keccak256": "0x7701e654ed1532df72910a53a3d6a492db028bda9fec3ed702825638c1f9a368",
 			"urls": [
-				"bzz-raw://afec7815de77cca053593c2c629968b345237d4bb1f7e7ad993fab860a8cbfbc",
-				"dweb:/ipfs/QmQdUFS6qo9RGyyCtsa3D3XTg3zFHogTf8PQZxhpWTTuRM"
+				"bzz-raw://2b3c462935d2d86b4ce58e60bde3e3b2ee673ab6e7108b9db757f56b7226d9ce",
+				"dweb:/ipfs/QmenYsWNgrtu3DRUdciNP71PcDVYn4g2DTNXY9qtiWz9t9"
 			]
 		}
 	},
